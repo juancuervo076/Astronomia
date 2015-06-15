@@ -1,1 +1,6 @@
 sudo apt-get install git
+git push -u origin master
+git add archivo
+git commit -m "comentario"
+git remote add origin home/lenovo/Documentos/VIU_Master/radioastronomía/programas_python/python Herramientas_radio.git
+git push
